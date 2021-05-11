@@ -1,7 +1,7 @@
 ### Hi there, I'm Darius - aka [DPcores][website] 👋
 
 [![Website](https://img.shields.io/website?label=DPCORES.com&style=for-the-badge&url=https%3A%2F%2Fdpcores.com)](https://dpcores.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DPCORES?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDPCORES&screen_name=DPCORES)
+[![Twitter Follow](https://img.shields.io/twitter/follow/4lulzman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F4lulzman&screen_name=4lulzman)
 
 ## I'm currently working as a Tier II agent 
 
