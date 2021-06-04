@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DPCORES.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DPCORES.com" width="22px" src="https://image.flaticon.com/icons/png/512/841/841364.png" />][website]
 [<img align="left" alt="DPCORES.com | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
-[<img align="left" alt="DPCORES.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DPCORES.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DPCORES.com | Twitter" width="22px" src="https://img-premium.flaticon.com/png/512/1384/1384065.png?token=exp=1622770425~hmac=f1a3a1917a5cb1f4415bb980b3709adf" />][twitter]
+[<img align="left" alt="DPCORES.com | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 
