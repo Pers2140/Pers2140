@@ -19,6 +19,8 @@
 [<img align="left" alt="DPCORES.com | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
 [<img align="left" alt="DPCORES.com | Twitter" width="22px" src="https://img-premium.flaticon.com/png/512/1384/1384065.png?token=exp=1622770425~hmac=f1a3a1917a5cb1f4415bb980b3709adf" />][twitter]
 [<img align="left" alt="DPCORES.com | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="DPCORES.com | Profile" width="22px" src="https://image.flaticon.com/icons/png/512/2922/2922510.png" />][profile]
+
 
 <br />
 
@@ -55,4 +57,5 @@
 [twitter]: https://twitter.com/4lulzman
 [youtube]: https://www.youtube.com/channel/UCMgLMPB2i1OZ0ovZLNUEeJw
 [linkedin]: https://www.linkedin.com/in/darius-persaud-43b24011a/
+[profile]: https://webprofile.d39ose37ksgy0r.amplifyapp.com/
 
