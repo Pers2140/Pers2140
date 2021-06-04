@@ -27,6 +27,10 @@
 ### Languages and Tools:
 
 <br />
+- CompTIA N+
+- CompTIA A+
+- Adobe Photoshop, InDesign, Premiere, After Effects experience
+- Troubleshooting, Repair and maintenance of computers
 <br />
 
 ---
