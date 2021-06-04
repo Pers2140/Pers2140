@@ -6,17 +6,17 @@
 ## I'm currently working as a Tier II agent 
 
 - 👯 I’m looking to collaborate with other content creators
-- 🔭 I love learning [Become A VS Code SuperHero!]!
-- 🌱 I’m currently learning everything 🤣
+- 💻 Studying to become a Pentester
+- 🐕 I’m currently training my dogo to be good
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have used more than 10 linux distros in a month
+- ✈️ Fun fact: I have traveled to more than 25 different countries
 
 
 
 ### Connect with me:
 
 [<img align="left" alt="DPCORES.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DPCORES.com | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DPCORES.com | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][youtube]
 [<img align="left" alt="DPCORES.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DPCORES.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
