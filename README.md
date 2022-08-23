@@ -15,11 +15,11 @@
 
 ### Connect with me:
 
-[dpcores.com][website]
-[Youtube][youtube]
-[Twitter][twitter]
-[Linkedin][linkedin]
-[profile][profile]
+[dpcores.com][website]</br>
+[Youtube][youtube]</br>
+[Twitter][twitter]</br>
+[Linkedin][linkedin]</br>
+[Web profile][profile]</br>
 
 
 <br />
