@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 💻 Studying to become a Pentester
 - 🐕 I’m currently training my dogo to be good
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ✈️ Fun fact: I have traveled to more than 25 different countries
 
 
