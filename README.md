@@ -27,7 +27,7 @@
 ### Languages and Tools:
 
 
-- CompTIA N+<br />
+- CompTIA N+, AZ900<br />
 - Adobe Photoshop, InDesign, Premiere, After Effects experience<br />
 - Troubleshooting, Repair and maintenance of computers<br />
 
