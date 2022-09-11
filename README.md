@@ -1,7 +1,7 @@
 ### Hi there, I'm Darius - checkout my website [DPcores][website] 🤘
 
 [![Website](https://img.shields.io/website?label=DPCORES.com&style=for-the-badge&url=https%3A%2F%2Fdpcores.com)](https://dpcores.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/4lulzman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNimdaNode&screen_name=NimdaNode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MrNimdaNode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNimdaNode&screen_name=NimdaNode)
 
 ## I'm currently working as a Tier II agent 
 
@@ -58,7 +58,7 @@
 </details>
 
 [website]: https://dpcores.com
-[twitter]: https://twitter.com/4lulzman
+[twitter]: https://twitter.com/NimdaNode
 [youtube]: https://www.youtube.com/channel/UCMgLMPB2i1OZ0ovZLNUEeJw
 [linkedin]: https://www.linkedin.com/in/darius-persaud-43b24011a/
 [profile]: https://webprofile.d39ose37ksgy0r.amplifyapp.com/
