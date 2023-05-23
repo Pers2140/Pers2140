@@ -12,7 +12,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ✈️ Fun fact: I have traveled to more than 25 different countries
 
-
+## PC/Proxmox Server ( AIO water cooled M40 Build )
+[PCPartPickerBuild](https://nl.pcpartpicker.com/b/MJCLrH)
 
 ### Connect with me:
 
